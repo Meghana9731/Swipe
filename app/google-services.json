@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168557676157",
+    "firebase_url": "https://swap-ae6f3-default-rtdb.firebaseio.com",
+    "project_id": "swap-ae6f3",
+    "storage_bucket": "swap-ae6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168557676157:android:17c82ea852a6983c719314",
+        "android_client_info": {
+          "package_name": "com.app.swap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168557676157-dv22p5g07p5njaube255rd9v1lrg2l3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSNUe9t4-k_whzFSASOKOEukO3q8NviQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168557676157-dv22p5g07p5njaube255rd9v1lrg2l3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
